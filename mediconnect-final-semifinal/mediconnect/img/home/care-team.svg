@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="120" height="100">
+  <g>
+    <circle cx="30" cy="58" r="20" fill="#DCE9FF"/>
+    <circle cx="60" cy="52" r="23" fill="#B9E0DB"/>
+    <circle cx="90" cy="58" r="20" fill="#DCE9FF"/>
+  </g>
+  <!-- left person -->
+  <g>
+    <circle cx="30" cy="46" r="9" fill="#0B2338"/>
+    <path d="M14 78c0-10 7-17 16-17s16 7 16 17z" fill="#006A65"/>
+  </g>
+  <!-- center person (taller, front) -->
+  <g>
+    <circle cx="60" cy="40" r="11" fill="#0B2338"/>
+    <path d="M40 82c0-12 9-20 20-20s20 8 20 20z" fill="#0B2338"/>
+  </g>
+  <!-- right person -->
+  <g>
+    <circle cx="90" cy="46" r="9" fill="#0B2338"/>
+    <path d="M74 78c0-10 7-17 16-17s16 7 16 17z" fill="#006A65"/>
+  </g>
+  <!-- heart above the team -->
+  <path d="M60 14c-4-6-13-4-13 3 0 6 7 10 13 15 6-5 13-9 13-15 0-7-9-9-13-3z" fill="#D9453F"/>
+</svg>
